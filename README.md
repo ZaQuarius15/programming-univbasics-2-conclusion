@@ -22,8 +22,10 @@ common repetition statements: `while` or `loop`
 
 If you think about what happened after you learned to write complete, and
 occasionally complex sentences, you can see where Programming as Conversation
-will go next. After you learned to write competent sentences that could
-function with complexity, you learned to write **paragraphs**.
+will go next. After you learned to write competent sentences (like Ruby
+_expressions_) that could
+function with complexity (like if you wrapped them in `if` or repetition),
+you learned to write **paragraphs**.
 
 A **paragraph** is a collection of sentences, aligned by a topic sentence and
 bundled up or closed by a closing sentence. A **paragraph** can persuade or
