@@ -1,7 +1,7 @@
 # Programming as Conversation Part 2: Conclusion
 
 In Programming as Conversation we taught you the basic units of expression:
-_expressions_. With them you could make simple requests of Ruby and could
+_expressions_. With them, you could make simple requests of Ruby and could
 provide simple directives to Ruby. These were like learning simple requests for
 food or water when you were learning to speak. You also got a little bit of
 vocabulary: learned words like _variable_ and _data type_.
@@ -33,6 +33,6 @@ offend, direct, or explain. You must now learn to write "code paragraphs." Code
 paragraphs are called, depending on language, "functions," "procedures,"
 "methods," or "subroutines."
 
-Ruby calls bundles of statements that, together, accomplish a unit of work  or
-process, ***methods***. In Programming as Conversation 3 we'll learn to take
+Ruby calls bundles of statements that, together, accomplish a unit of work or
+process, ***methods***. In Programming as Conversation 3, we'll learn to take
 our _expressions_ and _statements_ and bundle them up into _methods_.
